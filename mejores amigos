@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="es">
 <head>
   <title>Mejores Amigos</title>
   <meta charset="utf-8">
@@ -13,7 +13,7 @@
 <div class="container">
   <h2>Mejores amigos</h2>
   <p>A continuación una breve descripción de mis amigos del cole</p>
-  <p class="text-muted">Los power rangers.</p>
+  <p class="text-muted">Los del cole.</p>
   <p class="text-primary">Isabela portillo,a veces es medio mala, amable y bipolar</p>
   <p class="text-success">Avril Hernandez, una persona incapaz de criticar a otros, demasiado considerada, incluso con quienes no se lo merecen.</p>
   <p class="text-info">Violetita Erazo, la amiga con mucho estilo, graciosa, a veces despistada y muy despreocupada.</p>
